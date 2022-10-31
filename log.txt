@@ -96,3 +96,18 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/NRF24L01 adapter for Dasduino boards to NRF24L01-adapter-for-Dasduino-boards-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/PMS7003 sensor adapter/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 2d62e7d] Updating open source files.
+ 1 file changed, 29 insertions(+)
+https://github.com/SolderedElectronics/PMS7003-sensor-adapter-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/NRF24L01 adapter for Dasduino boards/OUTPUTS/V1.1.1: all files are present, commiting...
+NRF24L01-adapter-for-Dasduino-boards-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/NRF24L01 adapter for Dasduino boards to NRF24L01-adapter-for-Dasduino-boards-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/PMS7003 sensor adapter/.git/
